@@ -2,6 +2,7 @@
   General Kenobi 
   
   [![Les Stats GitHub de WilliamsChazal](https://github-readme-stats.vercel.app/api?username=WilliamsChazal)]
+  ![Les Stats GitHub de WilliamsChazal](https://github-readme-stats.vercel.app/api?username=WilliamsChazal&count_private=true)
 
 
 <!--
