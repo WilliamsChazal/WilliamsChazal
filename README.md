@@ -2,7 +2,7 @@
  
 
   ![Les Stats GitHub de Williams Chazal](https://github-readme-stats.vercel.app/api?username=WilliamsChazal&count_private=true&show_icons=true&theme=radical)
-  [![Williams](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamsChazal&theme=radical&layout=compact)]
+  ![Williams](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamsChazal&theme=radical&layout=compact)
 
 
 <!--
